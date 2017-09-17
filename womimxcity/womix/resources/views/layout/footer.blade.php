@@ -33,15 +33,15 @@
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="popper/popper.min.js"></script>
-    <script src="js/sbjs/js/bootstrap.min.js"></script>
+    <script src="../jquery/jquery.min.js"></script>
+    <script src="../popper/popper.min.js"></script>
+    <script src="../js/sbjs/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="jquery-easing/jquery.easing.min.js"></script>
-    <script src="vendor/chart.js/Chart.min.js"></script>
-    <script src="vendor/datatables/jquery.dataTables.js"></script>
-    <script src="vendor/datatables/dataTables.bootstrap4.js"></script>
+    <script src="../jquery-easing/jquery.easing.min.js"></script>
+    <script src="../chart.js/Chart.min.js"></script>
+    <script src="../css/bootstrap/datatables/jquery.dataTables.js"></script>
+    <script src="../css/bootstrap/datatables/dataTables.bootstrap4.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/sb-admin.min.js"></script>
+    <script src="../js/sb-admin.min.js"></script>

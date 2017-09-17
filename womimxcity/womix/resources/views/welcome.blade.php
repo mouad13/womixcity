@@ -42,7 +42,7 @@
               <a class="nav-link js-scroll-trigger" href="/login">connexion</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="/inscription">navigateurs</a>
+              <a class="nav-link js-scroll-trigger" href="/sailor/inscription">navigateurs</a>
             </li>
           </ul>
         </div>

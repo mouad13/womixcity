@@ -14,6 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::get('/inscription', function () {
     return view('inscription');
+});
+
+Route::get('/sailor/inscription', function(){
+  return view('sailor.inscription');
 });

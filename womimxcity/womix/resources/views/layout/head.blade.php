@@ -10,15 +10,15 @@
   <title>Blue Wash</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap/sbcss/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/bootstrap/sbcss/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
   <!-- Plugin CSS -->
-  <link href="ccs/bootstrap/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+  <link href="../css/bootstrap/datatables/dataTables.bootstrap4.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="css/sb-admin.css" rel="stylesheet">
+  <link href="../css/sb-admin.css" rel="stylesheet">
 
 </head>
