@@ -10,28 +10,28 @@
            <a class="nav-link" href="#">
              <i class="fa fa-fw fa-dashboard"></i>
              <span class="nav-link-text">
-               Dashboard</span>
+               Tableau de bord</span>
            </a>
          </li>
          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
            <a class="nav-link" href="#">
              <i class="fa fa-fw fa-area-chart"></i>
              <span class="nav-link-text">
-               Charts</span>
+               Mon compte</span>
            </a>
          </li>
          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
            <a class="nav-link" href="#">
              <i class="fa fa-fw fa-table"></i>
              <span class="nav-link-text">
-               Tables</span>
+               Partenaires</span>
            </a>
          </li>
          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
            <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
              <i class="fa fa-fw fa-wrench"></i>
              <span class="nav-link-text">
-               Components</span>
+               gerer mon compte</span>
            </a>
            <ul class="sidenav-second-level collapse" id="collapseComponents">
              <li>
@@ -46,7 +46,7 @@
            <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseExamplePages" data-parent="#exampleAccordion">
              <i class="fa fa-fw fa-file"></i>
              <span class="nav-link-text">
-               Example Pages</span>
+               Mon historique</span>
            </a>
            <ul class="sidenav-second-level collapse" id="collapseExamplePages">
              <li>
@@ -67,7 +67,7 @@
            <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti" data-parent="#exampleAccordion">
              <i class="fa fa-fw fa-sitemap"></i>
              <span class="nav-link-text">
-               Menu Levels</span>
+               Cadeaux</span>
            </a>
            <ul class="sidenav-second-level collapse" id="collapseMulti">
              <li>
@@ -93,7 +93,7 @@
            <a class="nav-link" href="#">
              <i class="fa fa-fw fa-link"></i>
              <span class="nav-link-text">
-               Link</span>
+               Liens utiles</span>
            </a>
          </li>
        </ul>

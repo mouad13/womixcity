@@ -22,3 +22,11 @@ Route::get('/inscription', function () {
 Route::get('/sailor/inscription', function(){
   return view('sailor.inscription');
 });
+
+Route::get('/professional/inscription', function(){
+  return view('pro.inscription');
+});
+
+Route::get('/sailor/map', function(){
+  return view('sailor.map');
+});

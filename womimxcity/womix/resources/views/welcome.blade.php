@@ -39,10 +39,10 @@
               <a class="nav-link js-scroll-trigger" href="#about">A propos de nous</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="/login">connexion</a>
+              <a class="nav-link js-scroll-trigger" href="/admin">Connexion</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="/sailor/inscription">navigateurs</a>
+              <a class="nav-link js-scroll-trigger" href="/sailor/inscription">Inscription</a>
             </li>
           </ul>
         </div>
@@ -56,7 +56,7 @@
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <h1 class="brand-heading">Blue Wash</h1>
-              <p class="intro-text">une interface graphique sympathique</p>
+              <p class="intro-text">Wash ta mer !</p>
               <a href="#about" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
               </a>
@@ -71,7 +71,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2>A propos de Bue Wash</h2>
+            <h2>A propos de Blue Wash</h2>
             <p>blue Wash est Une plate forme </p>
           </div>
         </div>
@@ -95,9 +95,9 @@
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="https://github.com/BlackrockDigital/startbootstrap" class="btn btn-default btn-lg">
-                  <i class="fa fa-github fa-fw"></i>
-                  <span class="network-name">Github</span>
+                <a href="/professional/inscription" class="btn btn-default btn-lg">
+                  <i class=""></i>
+                  <span class="network-name">inscription pro</span>
                 </a>
               </li>
               <li class="list-inline-item">
