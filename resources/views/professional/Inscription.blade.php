@@ -1,5 +1,9 @@
+@extends('layout.master')
+
 @section('content')
-	<div class="row">
+<div class="content-wrapper">
+
+	<div class="container-fluid">
 		<div class="col-md-4">
 
 		</div>
@@ -47,4 +51,5 @@
 		</div>
 
 	</div>
+</div>
 @endsection
