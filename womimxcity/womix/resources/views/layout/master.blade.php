@@ -3,7 +3,7 @@
   @include('layout.head')
   <body class="fixed-nav sticky-footer bg-dark" id="page-top">
     @include('layout.nav')
-    <div class="container">
+    <div class="content-wrapper">
 
          @yield('content')
 
